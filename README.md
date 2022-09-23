@@ -1,5 +1,6 @@
 # Synchrony between Bitcoin and other cryptocurrencies
-Authors: Agnes Lei, Leo Rettich
+Authors: Agnes Lei, Leo Rettich<br>
+Completed in December 2021
 <br><br>
 <b>1. Introduction</b><br><br>
 When speaking of cryptocurrencies, bitcoin is the first name coming up in most people’s head. 
